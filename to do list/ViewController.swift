@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     var toDoArray = [String]()
     var toDoNotesArray = [String]()
     
+    //woah
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.delegate = self
